@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#9468E3</color>
+    <color name="purple_500">#673AB7</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+    <color name="off_white">#C0C0BF</color>
+<!--    <color name="blue">#2196F3</color>-->
+    <color name="grey">#4B4B4B</color>
+    <color name="dark_grey">#1e1e1e</color>
+    <color name="gray">#888</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_light">#C0C0BF</color>
+
+    <color name="background_color">#FCFCFC</color>
+    <color name="text_color">#000000</color>
+    <color name="calendar_text">#1e1e1e</color>
+    <color name="calendar_bg">#673AB7</color>
+</resources>
